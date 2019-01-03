@@ -1,0 +1,9 @@
+{
+    "rules":[
+        {
+        "ageStatement":"age < 40",
+        "salaryStatement":"salary < 185",
+        "stateStatement":" state == 'ankara'"
+        }
+    ]
+}
